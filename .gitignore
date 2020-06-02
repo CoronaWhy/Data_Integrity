@@ -1,3 +1,5 @@
-data/ 
+data/
+qc_results/cord19_v20
+qc_results/cord19_v25
 Explore.ipynb
 Try_Mongo.ipynb
